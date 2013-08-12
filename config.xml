@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <widget xmlns       = "http://www.w3.org/ns/widgets"
         xmlns:gap   = "http://phonegap.com/ns/1.0"
-        id          = "de.e3.employeedirectory"
+        id          = "de.e3.phonegap_remote"
         versionCode = "10"
         version     = "1.1.0">
  
-    <name>Employee Directory</name>
+    <name>phonegap_remote</name>
  
     <description>
-        A simple employee directory application
+        Test phonegap with remote database access
     </description>
  
     <author href="http://3ears.de" email="tom-buettner@t-online.de">
-        Christophe Coenraets
+        Tom Buettner
     </author>
  
     <feature name="http://api.phonegap.com/1.0/camera"/>
